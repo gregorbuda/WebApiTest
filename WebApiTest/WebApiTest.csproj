@@ -140,6 +140,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="bin\Release\netcoreapp3.1\" />
     <Folder Include="Migrations\" />
   </ItemGroup>
 
