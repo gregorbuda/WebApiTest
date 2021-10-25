@@ -9,8 +9,8 @@ using WebApiTest.Model;
 namespace WebApiTest.Migrations
 {
     [DbContext(typeof(SolicitudContext))]
-    [Migration("20211022005412_hola")]
-    partial class hola
+    [Migration("20211022024435_InitBD")]
+    partial class InitBD
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
